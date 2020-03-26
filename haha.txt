@@ -1,14 +1,2 @@
-﻿<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-﻿
-=======
-
->>>>>>> 7c842fabfb67700a646e596b1a06091cba7f27eb
-=======
-hjgkj
->>>>>>> c01c00de0c12d72953e912a8ca1bac9b8c07d3f6
-=======
-
->>>>>>> fd2826fd30edcc3b64d42af1ee27d632cbf5dc47
-abc
+hdfh
+你好
